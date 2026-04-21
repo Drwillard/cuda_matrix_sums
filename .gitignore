@@ -1,0 +1,78 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.log
+*.svclog
+*.scc
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# CUDA
+*.ptx
+*.cubin
+*.fatbin
+*.nvcc.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.orig
+
+# Logs
+*.log
+
+# Package directories
+node_modules/
+packages/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# MSBuild
+*.msbuild.log
+*.msbuild.binlog
+
+# JetBrains Rider
+.idea/
+
+# ReSharper
+_ReSharper*/
